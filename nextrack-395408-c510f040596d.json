@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nextrack-395408",
+  "private_key_id": "c510f040596daa61d9569bc4dc68b062b1c2a6db",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCcDyaDS5beFYZ5\nFBshEMl1hzJyj33qHuKeM5pgnSa/4kwr94YbB+E8tRAKbH+xNDeqPIr8CCHX9hMB\n160ncicIzvTmmB4iSabH75X5AxKoXBo8R536quZmt1MiAXRCz0pfaIBRCACxK3P9\nFTixlUA5JnUkQr246RuXT/Sw7TPiRAi0AUCp37GEUXtbh6QtvvhHkDRKkxY1xNM1\nKET5Jy2sy7/NbIvu+dFBE+iYhYCGLvqa13BWRAg234YaVBizfQiHqkzGT8IpnsrA\nijoB8GN+7ID0jd0YeWYk4zWEX36+6AGtK+V4Hr9R+leCl02WnBMLFKJQrR8OZHn/\njfHtTtunAgMBAAECggEAHwpmaywgVIksh63HnaKUp7NeBepjras6ASSbescXW4hc\nBUzFGGBPXT9YcvJUzb7oqYxEStAlRyrzaeTn1JZAjGB51tn/+Gr06QTPLEn/rowv\nTbkjA6Z1kI27U+K9KMLJdMO47iUs2hCeEANmFPBuZ0+ucilySjLXoZeuQHjV3pXA\n4q8Ppuxiz2uziDZuoR6M4p17/rWLkgOaptqbTEYFl9l/Eq0wZZPfAMpt6+vBBl4W\nbKGYFaNwAB4zg5IhhMYRrMZxf2wRcqDC/9K73KrQY870LdE/xJonnD/YTWlyeWyv\nVVgFPClEQMAQVuYEBmJuFcgVWRxoW2Viptt7PIK6fQKBgQDaD2L3WacV7jdAfBlY\ngejlKh36Now0GCjQa6kICMN8yWdXLWD5ta79y8YbiOrg7JiipyqC1kTVqFQbJIHX\n0m5H/JcSY0pty3Ncpr6HKQxSmp8k8eVYlabMXVFpJYy1foaj1Sm6BO4RV2UEMnim\nfEX3HGfG75TJ//lpAkNUdcWsFQKBgQC3Ni5l8mWG0n29djypdGmPoX1KhZY17rBu\njh/NB8XWf7Rb+Xb7xsYdtXmAsupyJ1ZJSYuWOx+jSqPQ98/RBOL9A4lUaSMQqN7+\nbHrSqfDwIdBH6ikSG9vMGILfNWuOwpxxyUrKwV8n/l4KccN90wd5983MXJe/pive\nP4UyCKCLywKBgDFsZ1v0wAAie/drqTr8RtMaFq1Ni72K9EU5AZjGk7hG1dtWd7Jh\nUYZIl2BKSiIsvfOvu9znv7ZFbrqwLZXDJie+wmbyhj4YbM9FI83yqc5XKVbwVLEd\nSi7rv7X7QscoJFAh0lFNKMBZdJXc8qeZZyo5D/Rw/OJD2D3Ku4P7JZB5AoGARor0\nHojQkrLle1fVT6HlK0qQxWreRXHcORU8JWPCxy5wsaFCMPt+ON4xJF6/aqi+zoUk\n2/lz2xnYLZPdTqvFAoqkC/5XZAjBo9D9EbQhczRxz97XZYOYg+NEMNGO0m8Yca+B\nvsPp8ao9Z2QaU443qLzDXtagD0jaRz7J+FPeDTUCgYBCjt9ONKBIA4IWvJeRj8T5\nxYS3byLmn+2qxpawvXfn+KszDqThWcdEie5CvXqohmXcCQQfOU1gRd90UCZnGFtw\ngTZ/WdNictb3k4wM9f2xm1tw3Q60JEH7s+nmmcSSCAxGEz+UhV+QBQd32n5h3A+E\nyK3Hp/CdqPY/Pj8NZVqJCw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "nextrack@nextrack-395408.iam.gserviceaccount.com",
+  "client_id": "113849921316097583273",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nextrack%40nextrack-395408.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
