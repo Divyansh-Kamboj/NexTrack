@@ -1,4 +1,4 @@
-from typing import List
+#from typing import List
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 import gspread
@@ -244,5 +244,3 @@ def track_purchase_history(customer_id: str):
     customer_bills = [bill for bill in bill_records if bill['customer_id'] == customer_id]
     return customer_bills
  
-# Note: Actual implementation for updating and deleting in gspread would involve locating the specific row to update or delete,
-# which may require additional helper functions to map between the Pydantic model and the Google Sheets row.
